@@ -1,4 +1,4 @@
 node_modules/
-starting*z.*
+z*.*
 *.env
 artifacts/
